@@ -104,7 +104,7 @@ in this notebook.
 
 <br>
 
-Please note, a static html version of this notebook has been stored at: https://mybinder.org/v2/gh/Sam-Tracey/PDA_Project_2021/c191ce4decba2830f1d42b66597d1b5e9843efd7?filepath=PDA_Project.ipynb
+Please note, a static html version of this notebook has been stored at: https://nbviewer.org/github/Sam-Tracey/PDA_Project_2021/blob/main/PDA_Project.ipynb
 
 ## Navigating the Notebook.
 
